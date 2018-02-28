@@ -24,7 +24,7 @@ Think you're up for the challenge?
 Entanglion is a cooperative board game designed for two players. The goal is to reconstruct a quantum computer developed by an ancient race. Work together with your teammate to navigate the three galaxies of the quantum universe – Centarious, Superious, and Entanglion – in a quest to collect eight quantum computer components. Be careful to avoid detection by the planetary defense mechanisms guarding the components!
 
 # Game concepts
-Entanglion was designed to expose players to several fundamental concepts in quantum computing:
+Entanglion was designed to expose players to several fundamental concepts in quantum computing: 
 
 - **Qubits** are the building blocks of quantum computation.
 - **Superposition** is when a quantum system may exist in a probabilistic combination of multiple states at once.
@@ -37,12 +37,14 @@ Entanglion also exposes players to the different kinds of hardware and software 
 Further discussion of how Entanglion relates to actual quantum computing can be found toward the end of this book.
 
 # Game setup
-1. **Lay out the game & spaceship boards**. Place the game board within easy reach from each player and distribute the spaceship boards to each player.
+1. **Lay out the game & spaceship boards**. Place the game board within easy reach from 
+each player and distribute the spaceship boards to each player.
 2. **Place the quantum components**. Shuffle the quantum components and place them face up on each planet in the Entanglion galaxy, one per planet.
-3. **Shuffle the engine card stack**. Set aside PROBE and shuffle the remaining engine cards. Place PROBE face down on the engine stack, then place the remaining engine cards on top, face down.
+3. **Shuffle the engine card stack**. Set aside the PROBE card and shuffle the remaining engine cards. Place the PROBE card face down on the engine stack, then place the remaining engine cards on top, face down.
 4. **Prepare the quantum event deck**. Set aside the Quantum Shuffle card and shuffle the remaining event cards. Deal out three event cards face down on the quantum event deck. Next, place the Quantum Shuffle card face down on the deck. Finally, place the remaining event cards face down on the deck.
 5. **Set the initial detection rate**. Place the detection rate token on the detection rate scale. For an easy game, start with a detection rate of 1 or 2. For a more challenging game, start with a detection rate of 3. If the detection rate reaches the final level (X) before the quantum computer has been built, the game ends in a loss.
-6. **Determine the first player**. Determine the first player by having each player roll the Entanglion die (8-sided). The player with the higher number goes first. Re-roll in case of a tie.
+6. **Determine the first player**. Determine the first player by having each player 
+roll the Entanglion die (8-sided). The player with the higher number goes first. Re-roll in case of a tie.
 7. **Determine the initial ship locations**. Starting with the first player, roll the Centarious die to place each spaceship (0 goes to <span style="color: purple"> ZERO </span>, 1 goes to <span style="color: purple"> ONE </span>). This process is akin to initializing a quantum system.
 8. **Draw engine cards**. Starting with the first player, each player draws three engine cards into their hand. Engine cards may be kept face up.
 
@@ -74,26 +76,10 @@ Further discussion of how Entanglion relates to actual quantum computing can be 
 
 **Rule Book**
 
-# Turn overview
-Perform _one_ of the following actions on your turn.
-
-1. **Navigate**. Play one engine card in engine control to navigate, and draw a replacement. You may only play engine cards for your own ship.
-2. **Exchange**. Discard one engine card from your hand and draw a replacement.
-3. **Retrieve**. Roll the Entanglion die to attempt to retrieve a quantum component if one is present.
-4. **Event**. Play an event card from your hand (if you possess one).
-
-> Orient engine cards in the engine control spaces such that the lines on the card line up with the line of your spaceship.
-
-> When the engine stack becomes depleted, immediately reshuffle the engine cards in the discard pile to replenish the engine stack. Include PROBE in the shuffle, do not place it at the bottom of the stack.
-
-> Players may not pass their turns, they must perform one of the actions above.
-
-> Outside of Entanglion, ships move independently. Inside Entanglion, both ships always move together, irregardless of which player plays an engine card.
-
 # Engine cards
 <img src="../images/engine_cards.png" width="60%">
 
-Engine cards are used to navigate your ships around the quantum universe. Navigation paths on the game board are labeled with the card(s) needed to traverse them (e.g. "X/CNOT" means either X or CNOT can be used to traverse that path). In some cases, only one spaceship may traverse a path. Engine cards may be played with no effect when no transition is shown on the board.
+Engine cards are used to navigate your ships around the quantum universe. Navigation paths on the game board are labeled with the card(s) needed to traverse them (e.g. “X/CNOT” means either X or CNOT can be used to traverse that path). In some cases, only one spaceship may traverse a path. Engine cards may be played with no effect when no transition is shown on the board.
 
 **X**. X is used to navigate between <span style="color: purple"> ZERO </span> and <span style="color: purple"> ONE </span> and within the Entanglion galaxy.
 
@@ -104,6 +90,20 @@ Engine cards are used to navigate your ships around the quantum universe. Naviga
 **CNOT**. CNOT is used to enter the Entanglion galaxy and navigate within it. It also flips the position of your spaceship in Centarious, but only when the other spaceship is orbiting <span style="color: purple"> ONE </span>.
 
 **PROBE**. Whenever PROBE is drawn, your ships have been discovered by an ancient defensive probe! Roll the Entanglion die. If the outcome is less than 4 (after accounting for quantum component effects), increase the detection rate by one. Otherwise, PROBE has no effect. Discard PROBE and draw a replacement engine card.
+
+> Orient engine cards in the engine control spaces such that the lines on the card line up with the line of your spaceship.
+
+> When the engine stack becomes depleted, immediately reshuffle the engine cards in the discard pile to replenish the engine stack. Include PROBE in the shuffle, do not place it at the bottom of the stack.
+
+# Turn overview
+Perform _one_ of the following actions on your turn.
+
+1. **Navigate**. Play one engine card in engine control to navigate around the galaxy, and draw a replacement. You may only play engine cards for your own ship.
+2. **Exchange**. Discard one engine card from your hand and draw a replacement..
+3. **Retrieve**. Roll the Entanglion die to attempt to retrieve a quantum component if one is present.
+4. **Event**. Play an event card from your hand (if you possess one).
+
+> Players may not pass their turns, they must perform one of the actions above.
 
 # Entering & exiting Entanglion
 In order to enter Entanglion, one spaceship needs to be in Centarious and the other spaceship needs to be in Superious. Only the spaceship in Centarious can use CNOT to enter Entanglion. The paths into Entanglion are represented with gray lines on the game board.
@@ -119,6 +119,8 @@ It is also possible to exit Entanglion using CNOT when both ships are orbiting <
 
 Example: Rubicon is orbiting <span style="color: purple"> ZERO </span> and Mercurial is orbiting <span style="color: green"> PLUS </span>. When Rubicon plays a CNOT, both ships move to <span style="color: #facd4d"> PHI PLUS </span>.
 
+> Outside of Entanglion, ships move independently. Inside Entanglion, both ships always move together, irregardless of which player plays an engine card.
+
 <img src="../images/entering_entanglion.png" width="40%">
 
 On <span style="color: #facd4d"> PHI PLUS </span>, when Rubicon plays CNOT, Rubicon moves to <span style="color: purple"> ZERO </span> and Mercurial moves to <span style="color: green"> PLUS </span>.
@@ -126,7 +128,8 @@ On <span style="color: #facd4d"> PHI PLUS </span>, when Rubicon plays CNOT, Rubi
 <img src="../images/entering_entanglion2.png" width="40%">
 
 # Detection rate
-The detection rate determines the difficulty of successfully evading planetary defenses. The detection rate token is used to keep track of the current detection rate. When a player's spaceship has been detected by orbital defenses, or a player's away team has been detected by ground defenses, the detection rate is increased, making it easier for each planet's defenses to detect the players in the future. The game ends when the detection rate reaches the final level (designated with an X).
+The detection rate determines the difficulty of successfully evading planetary defenses. The detection rate token is used to keep track of the current detection rate. When a player’s spaceship has been detected by orbital defenses, or a player’s away team has been detected by ground defenses, the detection rate is increased, making it easier for each planet’s defenses 
+to detect the player in the future. The game ends when the detection rate reaches the final level (designated with an X).
 
 > The detection rate increases by one whenever you are detected by a planet's orbital or ground defenses.
 
@@ -135,7 +138,7 @@ The detection rate determines the difficulty of successfully evading planetary d
 # Orbital defenses
 Planets in Entanglion are protected by orbital defenses that scan for ships looking to plunder the quantum components hidden there. It is possible to evade these defenses using your quantum engines. If you are detected, however, your navigation system will automatically take evasive maneuvers and jump to a random planet in the Centarious system. This jump triggers a quantum event.
 
-**When you navigate to any planet in Entanglion:** Roll the Entanglion die. If the outcome is _greater_ than the current detection rate, the orbital defenses have been evaded. If not, perform the following actions:
+**When you navigate to any planet in Entanglion:** Roll the Entanglion die. If the outcome is greater than the current detection rate, the orbital defenses have been evaded. If not, perform the following actions:
 
 1. Roll the Centarious die and move both ships to the planet indicated. Both ships jump together.
 2. Increase the detection rate by one.
@@ -158,27 +161,27 @@ There are eight components that players must obtain in order to build the quantu
 
 <img src="../images/quantum_components.png" width="100%">
 
-When present on a planet with a quantum component, you may send an away team to the planet's surface to retrieve it. Quantum components are guarded by automated ground defenses which, as with orbital defenses, must be evaded.
+When your ships are orbiting a planet with a quantum component, you may send an away team to the planet’s surface to retrieve it. Quantum components are guarded by automated ground defenses which, as with orbital defenses, must be evaded.
 
-**To perform a retrieval mission:** Roll the Entanglion die. If the outcome is _greater_ than the current detection rate, collect the component and place it on your spaceship board. If not, your away team was detected by the ground defenses; increase the detection rate by one.
+**To perform a retrieval mission:** Roll the Entanglion die. If the outcome is greater than the current detection rate, collect the component and place it on your spaceship board. If not, your away team was detected by the ground defenses; increase the detection rate by one.
 
-> If your away team fails to retrieve a quantum component, your ships remain in orbit on the current planet. You do not need to perform another orbital defense check on the next turn unless you navigate to another planet that has orbital defenses.
+> If your away team fails to retrieve a quantum component, your ships remain in orbit on the current planet. You do not need to perform another orbital defense check on the next turn unless you navigate to another planet that has orbital defenses
 
-> The Quantum Tunnel event card lets you bypass ground defenses. If you play this card during your turn, your retrieval mission was successful. You do not need to roll the Entanglion die to determine if your away team was detected by ground defenses; add the quantum component to your ship.
+> The Quantum Tunnel event card lets you bypass ground defenses. If you play this card during your turn, your retrieval mission was successful. You do not need to roll the Entanglion die to determine if your away team was detected by ground defenses; add the quantum component to your ship
 
 # Quantum events
 Quantum engines can be unpredictable at times! Once all six engine control slots have been filled, perform a quantum event at the end of your turn. In addition, perform a quantum event whenever you have been detected by orbital defenses.
 
 **To perform a quantum event:** Draw an event card and perform the instructions. Clear all engine cards from the game board and put them in engine discard pile.
 
-> When Quantum Shuffle is drawn, reshuffle the quantum event cards as per the instructions in Game setup.
+> When Quantum Shuffle is drawn, reshuffle the quantum event cards as per the instructions in game setup.
 
 > In the event that your ship was detected by orbital defenses on the same turn as having filled all six engine control slots, perform two quantum events.
 
 <img src="../images/events.png" width="100%">
 
 # Game end
-Players immediately win the game when they have collected all eight components of the quantum computer. Players immediately lose the game when the Detection Rate reaches the end (X).
+Players immediately win the game when they have collected all eight components of the quantum computer. Players immediately lose the game when the detection rate reaches the end (X).
 
 # Your first game
 Set up the game board as described in Setup. In this game, Mercurial (the blue player) will go first. Mercurial draws three cards: X, H, and H. Rubicon draws three cards: CNOT, SWAP, and X. Both ships start on <span style="color: purple"> ZERO </span>.
@@ -189,7 +192,7 @@ Set up the game board as described in Setup. In this game, Mercurial (the blue p
 
 <img src="../images/first2.png" width="40%">
 
-2. Rubicon plays CNOT to navigate both ships to <span style="color: #facd4d"> PHI PLUS </span>. Rubicon draws CNOT as a replacement card. After arriving at a planet in Entanglion, Rubicon must roll the Entanglion die to evade the orbital defenses. Since the detection rate is 1, Rubicon needs to roll a 2 or higher. Rubicon rolls the Entanglion die and gets a 3, just enough to evade detection!
+2. Rubicon plays CNOT to navigate both ships to <span style="color: #facd4d"> PHI PLUS </span>. Rubicon draws H as a replacement card. After arriving at a planet in Entanglion, Rubicon must roll the Entanglion die to evade the orbital defenses. Since the detection rate is 1, Rubicon needs to roll a 2 or higher. Rubicon rolls the Entanglion die and gets a 3, just enough to evade detection!
 
 <img src="../images/first3.png" width="40%">
 <img src="../images/first_detection.png" width="40%">
