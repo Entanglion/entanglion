@@ -17,8 +17,6 @@ For years, you've been obsessed with rumors of an ancient quantum computing tech
 
 If you want to rebuild this incredible technology, you'll have to navigate your ships through the Entanglion galaxy and out-maneuver the defenses the ancients left behind. The good news is that your old captain left you enough money to outfit your ships with the quantum-powered engines you'll need to enter Entanglion. The bad news is that without a quantum computer to guide them, these engines can be a little… unpredictable.
 
-Want to hear more? Read the full Entanglion backstory, [The Mysterious Fate of the Quantics](game/Backstory.md).
-
 ## Making Entanglion
 Entanglion is an open source project and you can make your own copy of the game by downloading and printing the assets.
 
