@@ -1,6 +1,6 @@
 # Entanglion Rule Book
 
-> A game by IBM Research
+> A game by IBM Research  
 
 **2 PLAYERS | AGES 14 & UP | ~45 MINUTES**
 
