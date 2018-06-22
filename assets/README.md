@@ -20,7 +20,7 @@ Many of the Entanglion game assets need to be printed, but there are some choice
 | 1 Entanglion die (d8) | 3D print, re-purpose, or [Buy on Amazon](http://a.co/aNyVaz9) |
 | Rule Book | Print on Letter (8.5x11") paper |
 
-> Looking to save printer ink? We included a light version for Letter sized paper.
+> Looking to save printer ink? We've included a light-themed version for Letter sized paper.
 
 ## Step 3. Printing
 
