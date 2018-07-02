@@ -1,7 +1,7 @@
 # Errata
 This page clarifies rules or game mechanics that may be unclear from their descriptions in the distributed game materials.
 
-> Got a question? Please [open an issue](../../issues) and let us know!
+> Got a question? Please [open an issue](../../../issues) and let us know!
 
 ## What order should I count planets in when Spooky Action is played?
 Count in the same fashion as the Heisenberg card: begin at OMEGA ZERO and count in a clockwise fashion. A die roll of 1 corresponds to OMEGA ONE (one planet away), and a die roll of 8 corresponds to OMEGA ZERO.
