@@ -11,3 +11,6 @@ The PROBE takes effect instantly. Perform the defense check to see if your ships
 
 ## When our ships are on PSI PLUS, PSI MINUS, PHI PLUS, or PHI MINUS, and a CNOT is played, where do the ships go?
 When your ships are on one of the plaents listed above (known as the Bell States in quantum parlence) and a CNOT is played, the ship on which the CNOT was played returns to Centarious and the other ship returns to Superious. For example, if both ships are on PHI PLUS and a CNOT is played on Mercurial (the blue ship), Mercurial will go to ZERO and Rubicon will go to PLUS.
+
+## How many cards can I play with The Mechanic?
+The card text says "play up to two of them," which means you can play zero, one, or two cards. The insturction to "Discard the unplayed engine card" should read "Discard the unplayed engine card(s)".
