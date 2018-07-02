@@ -8,6 +8,8 @@ Entanglion awaits your space navigation skills and strategic planning to explore
 
 http://ibm.biz/entanglion
 
+> 🤔 Confused about a rule? Please take a look at the [errata](errata.md) for rule clarifications and game updates.
+
 # Welcome to the quantum universe, Captain!
 
 <img src="../images/bg.png" width="100%">
