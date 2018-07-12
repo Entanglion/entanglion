@@ -13,14 +13,14 @@ Many of the Entanglion game assets need to be printed, but there are some choice
 
 | Asset | Options |
 | --- | --- |
-| Game board, spaceship boards, engine cards, quantum event cards, quantum components, spaceship tokens, detection rate token | Print on Letter (8.5x11") or Poster (24" wide) paper |
+| Game board, spaceship boards, engine cards, quantum event cards, quantum components, spaceship tokens, detection rate token | Print on Letter (8.5x11"), A4 (8.27×11.69"), or Poster (24" wide) paper |
 | 2 spaceship tokens | _Optional_ 3D print |
 | 1 detection rate token | _Optional_ 3D print |
 | 1 Centarious die (binary d6) | 3D print, re-purpose (e.g. a coin), or [Buy on Amazon](http://a.co/0cW7fsG) |
 | 1 Entanglion die (d8) | 3D print, re-purpose, or [Buy on Amazon](http://a.co/aNyVaz9) |
 | Rule Book | Print on Letter (8.5x11") paper |
 
-> Looking to save printer ink? We've included a light-themed version for Letter sized paper.
+> Looking to save printer ink? We've included a light-themed version for Letter and A4 sized paper.
 
 ## Step 3. Printing
 
@@ -31,7 +31,7 @@ Many of the Entanglion game components are designed to be printed on a standard 
 When printing, make sure to print single sided at 100% with no scaling, at the highest quality setting.
 
 ### Glue or Tape?
-When printing the Letter (8.5x11") versions of the game and spaceship boards, we have left room to affix the different pieces together. You may use either tape or glue to affix the pieces. We have found that taping the back sides of the pieces together allows the boards to be folded in half, whereas glue provides a sturdier hold.
+When printing the Letter (8.5x11") or A4 (8.27×11.69") versions of the game and spaceship boards, we have left room to affix the different pieces together. You may use either tape or glue to affix the pieces. We have found that taping the back sides of the pieces together allows the boards to be folded in half, whereas glue provides a sturdier hold.
 
 ### 3D Printing
 We have included a number of 3D models, some of which can be used in place of the 2D versions in the PDF file. We have printed these components with a MakerBot Replicator, but any 3D printer should be able to handle these prints.
