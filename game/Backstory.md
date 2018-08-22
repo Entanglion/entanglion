@@ -80,7 +80,7 @@ You open your mouth to say something, but Quazi immediately cuts you off. "Yes, 
 
 You had grown up believing the Quantic race had died out thousands of years ago. Not in your wildest dreams did you imagine you would meet a real life Quantic!
 
-"My ancestors were scientists, and long ago they built a quantum computer," Quazi beings.
+"My ancestors were scientists, and long ago they built a quantum computer," Quazi begins.
 
 "The computer was supposed to revolutionize Quantic society, enabling us to penetrate farther and farther into the deep recesses of the universe. And it very well may have – if it didn’t start swallowing people up first. One of my ancestors, a brilliant quantum engineer named Qemo, was convinced he could fix the problem. And he very well may have, given enough time."
 
