@@ -244,7 +244,7 @@ The quantum components in Entanglion represent different physical or logical com
 - **Magnetic Shielding**. Qubits are extremely sensitive to stray magnetic fields. Magnetic shielding ensures qubits are protected from external sources of magnetism.
 
 ## Event cards
-Event cards add fun, random elements to the game. Some event cards are named after people who made significant contributions to the field of quantum physics and quantum information science, such as Werner Heisenberg and Erwrin Schrödinger. One event card is extra special, named after IBM researcher Charles Bennett, one of the founders of quantum information theory and a key contributor to the discovery of the quantum teleportation effect. Other event cards are named after quantum effects such as quantum tunneling, bit flip errors, wave function collapsing, and Einstein’s "spooky action at a distance." We encourage avid players to research these people and topics to learn more about the physics of quantum information!
+Event cards add fun, random elements to the game. Some event cards are named after people who made significant contributions to the field of quantum physics and quantum information science, such as Werner Heisenberg and Erwin Schrödinger. One event card is extra special, named after IBM researcher Charles Bennett, one of the founders of quantum information theory and a key contributor to the discovery of the quantum teleportation effect. Other event cards are named after quantum effects such as quantum tunneling, bit flip errors, wave function collapsing, and Einstein’s "spooky action at a distance." We encourage avid players to research these people and topics to learn more about the physics of quantum information!
 
 <img src="../images/events.png" width="100%">
 
