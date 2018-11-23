@@ -19,10 +19,12 @@ If you want to rebuild this incredible technology, you'll have to navigate your 
 
 Want to hear more? Read the full Entanglion backstory, [The Mysterious Fate of the Quantics](game/Backstory.md).
 
-## Making Entanglion
-Entanglion is an open source project and you can make your own copy of the game by downloading and printing the assets.
+## Obtaining Entanglion
+Entanglion is an open source project and you can make your own copy of the game by downloading and printing the assets. Alternatively, you can purchase a boxed copy of Entanglion at The Game Crafter.
 
-🚀 **[Entanglion Printing & Assembly guide](assets)**
+🚀 **[Download the Entanglion Printing & Assembly guide](assets)**
+
+💰 **[Purchase Entanglion at The Game Crafter](https://www.thegamecrafter.com/games/entanglion1)**
 
 <img src="images/board.png" width="85%" />
 
@@ -34,6 +36,31 @@ If you are an educator who would like to use Entanglion as part of a learning cu
 
 ## Expanding Entanglion
 Entanglion is an open-source project developed by IBM Research to teach players about quantum computing. We welcome community contributions to modify and extend gameplay. If you would like to develop an expansion to Entanglion, please check out our [expansion guide](expansions).
+
+## Citing Entanglion
+If you wish to cite Entanglion in academic work, please use the following citation.
+
+> Justin D. Weisz, Maryam Ashoori, and Zahra Ashktorab. 2018. Entanglion: A Board Game for Teaching the Principles of Quantum Computing. In Proceedings of the 2018 Annual Symposium on Computer-Human Interaction in Play (CHI PLAY '18). ACM, New York, NY, USA, 523-534. DOI: https://doi.org/10.1145/3242671.3242696
+
+```
+@inproceedings{Weisz:2018:EBG:3242671.3242696,
+ author = {Weisz, Justin D. and Ashoori, Maryam and Ashktorab, Zahra},
+ title = {Entanglion: A Board Game for Teaching the Principles of Quantum Computing},
+ booktitle = {Proceedings of the 2018 Annual Symposium on Computer-Human Interaction in Play},
+ series = {CHI PLAY '18},
+ year = {2018},
+ isbn = {978-1-4503-5624-4},
+ location = {Melbourne, VIC, Australia},
+ pages = {523--534},
+ numpages = {12},
+ url = {http://doi.acm.org/10.1145/3242671.3242696},
+ doi = {10.1145/3242671.3242696},
+ acmid = {3242696},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {board game, game-based learning, pedagogical tools, quantum computing education},
+} 
+```
 
 # Contributors
 Entanglion was designed by IBM Research in New York.
