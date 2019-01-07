@@ -11,4 +11,10 @@ Creating an expansion to Entanglion can be a fun, challenging, and rewarding exp
 3. Keep in mind that some players may be color blind. Test your colors using a color blindness simulator such as [Sim Daltonism](https://michelf.ca/projects/sim-daltonism/).
 
 ## Community expansions
-_Be the first to have your expansion listed here!_
+
+### Entanglion: Space Pirates
+_Created by Justin D Weisz, Maryam Ashoori, Kent Fung, Patrick Watson, Prabhat M Reddy, & Rachel Ostrand_
+
+The Space Pirates of Entanglion (SPOE) are recruiting, and you'd like to join them! Transform your intergalactic mining ships into a fearsome quantum-powered fleet by harvesting resources, buying quantum components, and outwitting your opponent in order to become the next great space pirate!
+
+[🚀 Play this expansion](https://github.com/Entanglion/entanglion-spoe)
