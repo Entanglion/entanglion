@@ -10,7 +10,7 @@ Count in the same fashion as the Heisenberg card: begin at OMEGA ZERO and count 
 The PROBE takes effect instantly. Perform the defense check to see if your ships evaded the Entanglion probe, and remember that you need to roll a 4 or greater after accounting for the effects of your quantum components. Then, after resolving the PROBE, draw a replacement engine card and continue performing the actions of The Mechanic.
 
 ## When our ships are on PSI PLUS, PSI MINUS, PHI PLUS, or PHI MINUS, and a CNOT is played, where do the ships go?
-When your ships are on one of the plaents listed above (known as the Bell States in quantum parlence) and a CNOT is played, the ship on which the CNOT was played returns to Centarious and the other ship returns to Superious. For example, if both ships are on PHI PLUS and a CNOT is played on Mercurial (the blue ship), Mercurial will go to ZERO and Rubicon will go to PLUS.
+When your ships are on one of the planets listed above (known as the Bell States in quantum parlence) and a CNOT is played, the ship on which the CNOT was played returns to Centarious and the other ship returns to Superious. For example, if both ships are on PHI PLUS and a CNOT is played on Mercurial (the blue ship), Mercurial will go to ZERO and Rubicon will go to PLUS.
 
 ## How many cards can I play with The Mechanic?
 The card text says "play up to two of them," which means you can play zero, one, or two cards. The instruction to "Discard the unplayed engine card" should read "Discard the unplayed engine card(s)".
