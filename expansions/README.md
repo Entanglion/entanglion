@@ -19,8 +19,10 @@ The Space Pirates of Entanglion (SPOE) are recruiting, and you'd like to join th
 
 [🚀 Play this expansion](https://github.com/Entanglion/entanglion-spoe)
 
-### Entanglion: a Czech version
-_Created by Jan Louda_
+### Entanglion: Czech language version
+_Translated by: Jan Louda, Tomas Feige & Magdalena Stachova_
 
-[🇨🇿 Access Entanglion in Czech](https://github.com/janlouda/entanglion)
+Enjoy the game to its full details in Czech language. We translated not only the rulebook but also all the necessary assets for making your own original DIY version. We also added files for laser cutting the tokens from plexi to make your game even more V.I.P.
+
+[🇨🇿 Get the translated version](https://github.com/janlouda/entanglion)
 
