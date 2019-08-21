@@ -22,5 +22,5 @@ The Space Pirates of Entanglion (SPOE) are recruiting, and you'd like to join th
 ### Entanglion: a Czech version
 _Created by Jan Louda_
 
-[🚀 Entanglion in Czech](https://github.com/janlouda/entanglion)
+[🇨🇿 Access Entanglion in Czech](https://github.com/janlouda/entanglion)
 
