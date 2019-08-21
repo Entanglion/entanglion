@@ -18,3 +18,9 @@ _Created by Justin D Weisz, Maryam Ashoori, Kent Fung, Patrick Watson, Prabhat M
 The Space Pirates of Entanglion (SPOE) are recruiting, and you'd like to join them! Transform your intergalactic mining ships into a fearsome quantum-powered fleet by harvesting resources, buying quantum components, and outwitting your opponent in order to become the next great space pirate!
 
 [🚀 Play this expansion](https://github.com/Entanglion/entanglion-spoe)
+
+### Entanglion: a Czech version
+_Created by Jan Louda_
+
+[🚀 Entanglion in Czech](https://github.com/janlouda/entanglion)
+
