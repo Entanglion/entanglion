@@ -46,7 +46,7 @@ We have included a number of 3D models, some of which can be used in place of th
 > If you do not have access to a 3D printer, you may purchase the dice on Amazon ([Centarious binary d6](http://a.co/0cW7fsG), [Entanglion d8](http://a.co/aNyVaz9)), or repurpose appropriately-sided dice from other board games.
 
 ### Rule Book
-We have included the full-color version of the rule book in the game assets. However, it is possible that we may update the rules based on community feedback. The authoritative source of Entanglion rules will be maintained in the [online rulebook](../game), and any errata or rule clarifcations will be documented on the [errata page](../game/Errata.md).
+We have included the full-color version of the rule book in the game assets. However, it is possible that we may update the rules based on community feedback. The authoritative source of Entanglion rules will be maintained in the [online rulebook](../game), and any errata or rule clarifications will be documented on the [errata page](../game/Errata.md).
 
 ## Step 4. Play Time! 🚀
 Congratulations on assembling your own copy of Entanglion. We hope you enjoy playing it!
