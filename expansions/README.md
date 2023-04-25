@@ -26,3 +26,7 @@ Enjoy the game to its full details in Czech language. We translated not only the
 
 [🇨🇿 Get the translated version](https://github.com/janlouda/entanglion)
 
+### Entanglion: Polish language version
+_Translated by: Kamil Chwastek (hfastek)_
+
+[🇵🇱 Get the translated version](https://github.com/hfastek/entanglion)
